@@ -5,3 +5,5 @@ Provided information such as de-identified customer transaction records and fina
 
 
 Link: https://tbrain.trendmicro.com.tw/Competitions/Details/31 <br />
+
+Google slides: https://docs.google.com/presentation/d/1KEw6H-jndZdnnqeCnZnuhnOhfzOhF0fJZIEvk6Fc9AQ/edit#slide=id.p <br />
